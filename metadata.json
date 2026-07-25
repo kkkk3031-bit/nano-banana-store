@@ -1,0 +1,9 @@
+
+{
+  "name": "Nano Banana Store",
+  "description": "A premium Minecraft server mobile store for browsing ranks, kits, and perks with AI-driven recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
